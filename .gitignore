@@ -336,3 +336,4 @@ MKID_demo.ipynb
 # Ignore Python cache directories and bytecode
 __pycache__/
 *.py[cod]
+/venv/
