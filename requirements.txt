@@ -4,3 +4,9 @@ scipy
 ipykernel
 dataclasses
 typing
+
+pandas
+h5py
+tqdm
+iminuit
+scikit-learn
