@@ -1,5 +1,8 @@
 # slac-summer-institute-smurf_tutorial
-to install packages into this project's vitual environment:
+
+
+From terminal: in your terminal, navigate to the project's directory, and type source /.venv/bin/activate. This command goes to the directory /.venv/bin and runs the script called activate. Now your terminal looks something like "(.venv) adroster@MV42JGWLPD SQUAT_demo % ".
+now you can install packages into this project's vitual environment:
 
 From terminal: in your terminal, navigate to the project's directory, and type source /.venv/bin/activate. This command goes to the directory /.venv/bin and runs the script called activate. Now your terminal looks something like "(.venv) adroster@MV42JGWLPD SQUAT_demo % ".
 
