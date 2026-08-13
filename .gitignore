@@ -331,7 +331,6 @@ TSWLatexianTemp*
 #*Notes.bib
 
 *.png
-MKID_answers.ipynb
 MKID_demo.ipynb
 # Ignore Python cache directories and bytecode
 __pycache__/
